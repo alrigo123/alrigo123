@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alrigo123 you can callme me Rigo cause it's my other name
+- 👋 Hi, I’m @alrigo123 you can call me Rigo cause it's my other name
 - 👀 I’m interested in software development , specially in Web Development in back end
 - 🌱 I’m currently learning the basics like python ,php ,js and their frameworks , but in a basic level
 - 💞️ I’m looking to collaborate on anything I can :)
